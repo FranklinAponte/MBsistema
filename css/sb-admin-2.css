@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  :root {
-  --blue: #4e73df;
+  --blue: #4e7adf;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -9946,7 +9946,7 @@ a:focus {
 } */
 
 .bg-gradient-primary {
-  background-color: #004A93;
+  background-color: #008000;
   background-size: cover;
 }
 
